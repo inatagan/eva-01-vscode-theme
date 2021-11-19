@@ -7,26 +7,17 @@ This theme was made to match gtk3/XFCE [Eva-01](https://github.com/inatagan/eva-
 ## Installation
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
-<!-- `ext install inatagan.sakura-dark-vscode-theme` -->
+`ext install inatagan.eva-01-vscode-theme`
 
 ---
+## Color pallette
+Eva green|Eva purple 1|Eva purple 2|Eva dark grey
+:---:|:---:|:---:|:---:
+![green](./assets/33ff00.png)|![purple1](./assets/711F8C.png)|![purple2](./assets/523874.png)|![grey](./assets/1F1D1C.png)
+#33ff00|#711F8C|#523874|#1F1D1C
+
 ## Preview
-Main accent color `#CF074C`
-
-Secondary accent color `#33ff00`
-
-Background color true black `#000`
-
 ### full-screen
-![full-screen preview](screenshot/Screenshot_2021-10-20_10-57-27.png)
-
-### floating-window
-![floating-window preview](screenshot/Screenshot_2021-10-20_11-08-32.png)
-
-### editor look
-![editor preview](screenshot/Screenshot_2021-10-20_11-09-16.png)
-
-### panel look
-![panel preview](screenshot/Screenshot_2021-10-20_11-09-46.png)
+![full-screen preview](./assets/vscode-preview.png)
 
 **Enjoy!**
