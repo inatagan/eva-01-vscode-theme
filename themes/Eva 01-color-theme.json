@@ -2,10 +2,23 @@
 	"name": "Eva 01",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#1F1D1C",
+		"editor.foreground": "#c7fba5",
+		"activityBarBadge.background": "#33ff00",
+		"activityBarBadge.foreground": "#1F1D1C",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"activityBar.background": "#711F8C",
+		"activityBar.foreground": "#c7fba5",
+		"sideBar.background": "#1F1D1C",
+		"sideBar.border": "#111111",
+		"sideBarSectionHeader.background": "#523874",
+		"scrollbarSlider.background": "#523874",
+		"scrollbarSlider.hoverBackground": "#711F8C",
+		"scrollbarSlider.activeBackground": "#711F8C",
+		"progressBar.background": "#33ff00",
+		"statusBar.background": "#33ff00",
+		"statusBar.foreground": "#1F1D1C",
+		"button.background": "#711F8C",
 	},
 	"tokenColors": [
 		{

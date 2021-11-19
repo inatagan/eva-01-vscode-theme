@@ -1,13 +1,32 @@
-# README
-## This is the README for your extension "eva-01-vscode-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Evangelion Unit 01 theme for VS Code
+This theme was made to match gtk3/XFCE [Eva-01](https://github.com/inatagan/eva-01) theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<!-- [![version](https://img.shields.io/badge/vscode--marketplace-v0.0.1-brightgreen)](https://marketplace.visualstudio.com/items?itemName=inatagan.sakura-dark-vscode-theme) -->
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+---
+## Installation
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+
+<!-- `ext install inatagan.sakura-dark-vscode-theme` -->
+
+---
+## Preview
+Main accent color `#CF074C`
+
+Secondary accent color `#33ff00`
+
+Background color true black `#000`
+
+### full-screen
+![full-screen preview](screenshot/Screenshot_2021-10-20_10-57-27.png)
+
+### floating-window
+![floating-window preview](screenshot/Screenshot_2021-10-20_11-08-32.png)
+
+### editor look
+![editor preview](screenshot/Screenshot_2021-10-20_11-09-16.png)
+
+### panel look
+![panel preview](screenshot/Screenshot_2021-10-20_11-09-46.png)
 
 **Enjoy!**
