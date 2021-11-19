@@ -1,7 +1,7 @@
 # Evangelion Unit 01 theme for VS Code
 This theme was made to match gtk3/XFCE [Eva-01](https://github.com/inatagan/eva-01) theme
 
-<!-- [![version](https://img.shields.io/badge/vscode--marketplace-v0.0.1-brightgreen)](https://marketplace.visualstudio.com/items?itemName=inatagan.sakura-dark-vscode-theme) -->
+[![version](https://img.shields.io/badge/vscode--marketplace-v0.0.1-brightgreen)](https://marketplace.visualstudio.com/items?itemName=inatagan.eva-01-vscode-theme)
 
 ---
 ## Installation
