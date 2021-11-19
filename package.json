@@ -1,0 +1,21 @@
+{
+    "name": "eva-01-vscode-theme",
+    "displayName": "eva-01-vscode-theme",
+    "description": "This is a vscode theme based on the color pallete of the Evangelion Unit 01.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Eva 01",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Eva 01-color-theme.json"
+            }
+        ]
+    }
+}
