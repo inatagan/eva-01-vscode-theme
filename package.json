@@ -2,7 +2,7 @@
     "name": "eva-01-vscode-theme",
     "displayName": "eva-01-vscode-theme",
     "description": "This is a vscode theme based on the color pallete of the Evangelion Unit 01.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "inatagan",
     "repository": {
         "type": "git",
